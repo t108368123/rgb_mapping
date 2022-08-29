@@ -1,0 +1,3 @@
+接收mapping程式的PoseStamped,並從四元數轉回旋轉矩陣,最後拼接成rgb點雲
+ctrl+C自動儲存pcd（pcd存檔路徑請於程式碼中改成自己電腦的路徑）
+（此程式目前僅適用於autoware的ndt_mapping）
